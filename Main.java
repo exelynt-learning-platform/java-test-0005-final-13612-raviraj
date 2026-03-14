@@ -1,4 +1,4 @@
-cd java-test-0005-final-13612-ravirajpublic class Main {
+ class Main {
     public static void main(String[] args) {
         int num = 1;
 
